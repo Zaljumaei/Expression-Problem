@@ -1,2 +1,6 @@
-package Example;public interface Term {
+package Example;
+
+public interface Term {
+
+    void eval();
 }
